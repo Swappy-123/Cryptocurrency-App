@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.item-bg {
+  display: flex;
+  background-color: transparent;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  margin: 12px;
+}
+
+.item-para {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #ffffff;
+  margin: 12px;
+}
+
+.first {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px;
+}
+
+.second {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+}
+
+.img {
+  height: 40px;
+  width: 40px;
+  margin: 12px;
+}
